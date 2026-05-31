@@ -4,9 +4,9 @@
 # [必填] BYD_API_SALT 
 # 提示：请在青龙面板【环境变量】中添加 BYD_API_SALT，值为服务端授权的盐值。私聊群主获取专属盐值
 #
-# [可选] LOCAL_CODE_URL 
+# [必填] LOCAL_CODE_URL 
 # 说明：账号提取地址例如(http://127.0.0.1:9991/login?appId=wxa28c31d4ff7ae869)，多组链接用换行符或竖线(|)分割
-#
+# 部署教程：https://github.com/wyourname/wool/tree/master/wechat
 # [可选] BYD_CUSTOM_WEBHOOK 
 # 说明：专属企微代挂推送路由表。格式：UID=>Webhook地址，多组用换行或竖线(|)分割
 # =====================================================================
